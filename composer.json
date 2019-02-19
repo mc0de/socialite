@@ -1,6 +1,6 @@
 {
-    "name": "laravel/socialite",
-    "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries.",
+    "name": "mc0de/socialite",
+    "description": "mc0de fork of Laravel wrapper around OAuth 1 & OAuth 2 libraries.",
     "keywords": ["oauth", "laravel"],
     "license": "MIT",
     "homepage": "https://laravel.com",
